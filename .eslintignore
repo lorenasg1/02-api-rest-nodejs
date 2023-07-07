@@ -1,8 +1,2 @@
-# dependencies
 node_modules
-
-#database
-db/*.db
-
-# build
-dist
+build
