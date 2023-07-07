@@ -10,5 +10,5 @@
 ### Regras de Negócio
 
 - [x]  A transação poder do tipo crédito ou débito, que soma e subtrai do valor total, respectivamente;
-- [ ]  Deve ser possível identificar o usuário entre as requisições;
-- [ ]  O usuário só pode visualizar as próprias transações;
+- [x]  Deve ser possível identificar o usuário entre as requisições;
+- [x]  O usuário só pode visualizar as próprias transações;
